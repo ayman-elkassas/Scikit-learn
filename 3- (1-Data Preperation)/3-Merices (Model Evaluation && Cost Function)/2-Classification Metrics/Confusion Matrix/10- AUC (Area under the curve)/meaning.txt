@@ -1,0 +1,4 @@
+Find sensitivity(true positive rate (tpr)), specifity (false posivtive rate(fpr)) with suitable thresholds
+for each value from tpr and fpr
+
+for area under the curve of ROC increase is more accuracy model

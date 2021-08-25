@@ -1,0 +1,2 @@
+precision , recall , f1score , support for all types numeric or text with all types of averages
+"macro","micro","support"
